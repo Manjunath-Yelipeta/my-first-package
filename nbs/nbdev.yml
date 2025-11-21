@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my-first-package"
+  site-url: "https://Manjunath-Yelipeta.github.io/my-first-package"
+  description: "creating my firt open source package"
+  repo-branch: main
+  repo-url: "https://github.com/Manjunath-Yelipeta/my-first-package"
